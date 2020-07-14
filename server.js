@@ -1,4 +1,6 @@
 // Dependencies
 const express = require('express');
-const parse = require('body-parser');
-const path = require ('path');
+const logger = require('morgan');
+const mongoose = require ('mongoose');
+
+// DB Connection
