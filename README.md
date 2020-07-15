@@ -1,4 +1,7 @@
 # Workout Tracker
+![workout-tracker](https://user-images.githubusercontent.com/63982568/87492787-f75c0200-c610-11ea-8d15-a51539b2b988.jpg)
+
+An application that allows users to track workouts and individual exercises.
 
 ## Installation
 
