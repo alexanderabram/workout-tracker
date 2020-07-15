@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 
 // Connection
 const app = express();
-const PORT = process.env.port || 8080
+const PORT = process.env.PORT || 8080
 
 // Routes
 const apiRoutes = require('./routes/api-routes');
